@@ -1,2 +1,5 @@
 # UTILS
-Archivos útiles
+
+### commit.bat
+
+Hace commit de los archivos en rama `main`.
