@@ -3,7 +3,7 @@ chcp 65001
 
 ECHO Ingrese nombre commit:
 SET /p commit_name=""
-GOTO check
+GOTO :chequeo
   
 
 :chequeo
